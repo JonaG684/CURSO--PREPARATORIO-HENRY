@@ -5,4 +5,4 @@ function puedeManejar (edad){
  console.log (false);
 
 
-puedeManejar(19);
+puedeManejar(17);
